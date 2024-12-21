@@ -41,5 +41,5 @@ Bộ dữ liệu HBN bao gồm dữ liệu thu thập từ khoảng 5.000 trẻ 
 - Đánh giá mô hình bằng chỉ số Weighted Cohen’s Kappa.
 - So sánh kết quả trên tập huấn luyện và kiểm tra để đảm bảo độ tin cậy của mô hình.
 
-### 5. **Kết quả **
+### 5. **Kết quả**
 - Điểm submit: 0.413
