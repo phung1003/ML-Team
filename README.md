@@ -4,9 +4,9 @@
 Dự án này tập trung vào việc dự đoán mức độ nghiện Internet ở trẻ em và thanh thiếu niên bằng cách sử dụng dữ liệu từ Healthy Brain Network (HBN). Bộ dữ liệu này bao gồm các thông tin đa dạng như nhân khẩu học, đặc điểm thể chất và hoạt động, cho phép phân tích và dự đoán toàn diện.
 
 ## Thành viên nhóm
-- **Phan Nguyễn An Hưng**  
-- **Nguyễn Quốc Đạt**  
-- **Võ Tá Thành**  
+- **Phan Nguyễn An Hưng-22028098**  
+- **Nguyễn Quốc Đạt-22028236-INT3405E_55**  
+- **Võ Tá Thành-22028050**  
 
 
 ## Các bước thực hiện dự án
