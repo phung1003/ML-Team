@@ -1,4 +1,4 @@
-# README cho Dự án Healthy Brain Network (HBN)
+# Dự án Healthy Brain Network (HBN)
 
 ## Vấn đề cần giải quyết
 Dự án này tập trung vào việc dự đoán mức độ nghiện Internet ở trẻ em và thanh thiếu niên bằng cách sử dụng dữ liệu từ Healthy Brain Network (HBN). Bộ dữ liệu này bao gồm các thông tin đa dạng như nhân khẩu học, đặc điểm thể chất và hoạt động, cho phép phân tích và dự đoán toàn diện.
